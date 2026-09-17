@@ -38,7 +38,7 @@ class SubdomainHunter:
         print(f"[*] Running subfinder on {self.domain}...")
         try:
             result = subprocess.run(
-                ["E:/pentest-tools/subfinder/subfinder", "-d", self.domain, "-silent"],
+                ["subfinder", "-d", self.domain, "-silent"],
                 capture_output=True,
                 text=True,
                 timeout=300

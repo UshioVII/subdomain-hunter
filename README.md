@@ -33,7 +33,7 @@ While many tools just enumerate subdomains, SubdomainHunter provides **actionabl
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/subdomain-hunter.git
+git clone https://github.com/UshioVII/subdomain-hunter.git
 cd subdomain-hunter
 
 # No dependencies required - uses standard library!
@@ -157,8 +157,7 @@ Contributions welcome! Please feel free to submit a Pull Request.
 If SubdomainHunter saves you time or helps you find bugs, consider:
 
 - ⭐ Star this repository
-- 💰 [Sponsor via GitHub](https://github.com/sponsors/yourusername)
-- ☕ [Buy me a coffee](https://buymeacoffee.com/yourusername)
+- 💰 [Sponsor via GitHub](https://github.com/sponsors/UshioVII)
 - 🐛 Report bugs and suggest features
 
 ## License
