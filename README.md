@@ -160,6 +160,14 @@ If SubdomainHunter saves you time or helps you find bugs, consider:
 - 💰 [Sponsor via GitHub](https://github.com/sponsors/UshioVII)
 - 🐛 Report bugs and suggest features
 
+### Crypto Donations
+
+Support development with cryptocurrency:
+
+- **Bitcoin (BTC):** `14nqgRESTxpuhY7KmpZjtE4PWVvuWFLpqx`
+- **Ethereum (ETH):** `0x0e60e5da2138f30f70a2ff3878851f86b565cfae`
+- **USDT (TRC20):** `TH48ajfZDRb1vXeePHKirAX8herXVR8SJB`
+
 ## License
 
 MIT License - see [LICENSE](LICENSE) file for details.
